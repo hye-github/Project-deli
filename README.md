@@ -1,5 +1,8 @@
 # 프로젝트 명: Deli
 > 목표: 빅테크 기업들이 운영하는 소비자와 식당 운영자를 연결시켜주는 배달 앱을 WebApp으로 구현.
+
+## 프로젝트 PPT : [상세 PPT LINK](https://docs.google.com/presentation/d/1DngQwjs-pflHYoj1ez5nsczSNu60zIiD/edit?usp=sharing&ouid=111780926031687358017&rtpof=true&sd=true)
+
 ## 목차   
 1. 소개
   - 프로젝트에 시도하고 싶었던 것
