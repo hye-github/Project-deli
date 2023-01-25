@@ -97,3 +97,7 @@ global
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkPrRK%2FbtrWX5DfYgs%2FlK94K9EI8CYiKztiZ19TQ1%2Fimg.png"><br>
         - include와 load 를 활용하여 한 페이지에서 클릭시 페이지 전환 없이 해당하는 영역만 load 되도록 구현<br>
           : 페이지 전환이 없기때문에 뒤로가기시 사용자 입장에서 본인이 보던 페이지로 돌아갈 수 있음<br>
+          
+### 7. lucy-xss-servlet-filter 적용
+<br>
+
