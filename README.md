@@ -71,7 +71,7 @@ global
 ## 3. 담당 기능
 
 ### 1. 일반 회원가입
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkPrRK%2FbtrWX5DfYgs%2FlK94K9EI8CYiKztiZ19TQ1%2Fimg.png"><br>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFbeH3%2FbtrWU7VSeZ9%2FuseTP6CY6hmsT1Ejw1fcx1%2Fimg.png"><br>
         1-1. 카카오 로그인 REST API 를 사용하여 카카오 로그인 가능<br>
         1-2. Naver SENS  API를 사용하여 휴대폰 번호 인증 가능<br>
         1-3. 스크립트와 Redis를 사용하여 인증번호 유효시간 설정<br>
