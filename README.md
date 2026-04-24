@@ -10,12 +10,7 @@
   - 프로젝트에 시도하고 싶었던 것
   - 개발환경
   - 디렉토리 패키지 구조
-2. [기획, 관리](https://github.com/hye-github/Project-deli/blob/main/README.md#3-%EB%8B%B4%EB%8B%B9-%EA%B8%B0%EB%8A%A5)
-  - 일정표, 일지
-  - ERD
-  - 와이어 프레임
-  - 플로우 차트
-3. [담당 기능 소개](https://github.com/hye-github/Project-deli/blob/main/README.md#3-%EB%8B%B4%EB%8B%B9-%EA%B8%B0%EB%8A%A5)
+2. [담당 기능 소개](https://github.com/hye-github/Project-deli/blob/main/README.md#3-%EB%8B%B4%EB%8B%B9-%EA%B8%B0%EB%8A%A5)
 
   ---
 
@@ -50,25 +45,8 @@ global
 &nbsp;&nbsp;ㄴ&nbsp;interceptor   
 &nbsp;&nbsp;ㄴ&nbsp;type   
 &nbsp;&nbsp;ㄴ&nbsp;util   
-   
-     
-## 2. 기획, 관리
 
-### 일정표, 일지
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FZ0RBB%2FbtrWD54VdVv%2Fb7SMIk3ygK2sBkjRtCb171%2Fimg.jpg">
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fceis9p%2FbtrWCh6K6Mf%2Fhlex0zFcSD7lUumg47HqHk%2Fimg.jpg">
-
-### ERD
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcexp3o%2FbtrWEfGnU9g%2FPdfK24b8BCSPqhqNIQnCZ1%2Fimg.jpg">
-
-### 와이어 프레임
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbOrHTx%2FbtrWEK7hya5%2Fz7PLY7Ps6EXMvi0fOeOVKk%2Fimg.jpg">
-
-### 플로우 차트
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FboCWL6%2FbtrWEKlViRI%2F8czBxAOfbKLFQzDQAM5yo1%2Fimg.jpg"><br>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbPndOO%2FbtrWDPA9rhO%2FaAkO081mKEeQA1dDY2gT1k%2Fimg.jpg">
-
-## 3. 담당 기능
+## 2. 담당 기능
 
 ### 1. 일반 회원가입
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFbeH3%2FbtrWU7VSeZ9%2FuseTP6CY6hmsT1Ejw1fcx1%2Fimg.png"><br>
